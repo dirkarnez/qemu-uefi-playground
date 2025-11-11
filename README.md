@@ -1,3 +1,7 @@
 - [Programming in Assembly without an Operating System - YouTube](https://www.youtube.com/watch?v=ZFHnbozz7b4)
 - [Play NES Games on your UEFI Bootloader !!! | Odd Projects #1 - YouTube](https://www.youtube.com/watch?v=H4VOvY38VKU)
 - [hymen81/UEFI-Game-FlappyBirdy: Implement a game by UEFI](https://github.com/hymen81/UEFI-Game-FlappyBirdy)
+- [OVMF · tianocore/tianocore.github.io Wiki](https://github.com/tianocore/tianocore.github.io/wiki/OVMF)
+- [Booting From UEFI in QEMU | Baeldung on Linux](https://www.baeldung.com/linux/qemu-uefi-boot)
+- [【UEFI实战】利用QEMU搭建BIOS与内核开发环境_grub qemu-CSDN博客](https://blog.csdn.net/jiangwei0512/article/details/108176837)
+- [UEFI 启动原理及qemu 虚拟化中使用_qemu uefi-CSDN博客](https://blog.csdn.net/weixin_43269452/article/details/139861998)
