@@ -6,3 +6,6 @@
 - [【UEFI实战】利用QEMU搭建BIOS与内核开发环境_grub qemu-CSDN博客](https://blog.csdn.net/jiangwei0512/article/details/108176837)
 - [UEFI 启动原理及qemu 虚拟化中使用_qemu uefi-CSDN博客](https://blog.csdn.net/weixin_43269452/article/details/139861998)
 - [U-boot 对UEFI的支持_uboot uefi-CSDN博客](https://blog.csdn.net/heshuangzong/article/details/129228318)
+- u-boot
+  - `CONFIG_CMD_BOOTEFI`
+  - [bootefi command — Das U-Boot unknown version documentation](https://docs.u-boot.org/en/stable/usage/cmd/bootefi.html)
